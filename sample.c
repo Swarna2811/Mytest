@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("git hello world--new world");
+printf("gits hello world--new world");
 return 0;
 }
